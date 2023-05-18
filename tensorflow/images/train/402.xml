@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cropped_lps</folder>
+	<filename>402.jpg</filename>
+	<path>/Users/eo/Documents/Programming/LPReader/archive/cropped_lps/cropped_lps/402.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>106</width>
+		<height>94</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>license</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>2</ymin>
+			<xmax>105</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>
